@@ -14,11 +14,13 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="Visual Studio Code" alt="Visual Studio Code" width="50" height="50"/>&nbsp;
 </div>
 
+ ### 💻: My Most Used Languages :
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neri0817&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 ### 🔥: My Stats :
  [![GitHub Streak](https://streak-stats.demolab.com?user=Neri0817&theme=midnight-purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&fire=EB5454&ring=EB5454&background=22272E&stroke=EB5454)](https://git.io/streak-stats)
 
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Neri0817&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
  
- ### 💻: My Most Used Languages :
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neri0817&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
   
