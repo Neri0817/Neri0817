@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Neri0817! I'm 21 years old!
+- 👋 Hi, I’m @Neri0817! I'm 22 years old!
 - 👀 I’m interested in programming languages, web design and UI!
 
 ### :hammer_and_wrench: Languages and Tools :
